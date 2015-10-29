@@ -1,5 +1,6 @@
 /**
- * Created by ����� on 29.10.2015.
+ * Приближенное вычисление корня рядом
+ * Created by Вадик on 29.10.2015.
  */
 public class SquareRoot {
     public static void main(String[] args) {
